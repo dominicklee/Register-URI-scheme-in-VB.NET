@@ -4,7 +4,7 @@ Basic example of how to register a new URI scheme in VB.NET
 ## Overview ##
 As we have seen over the years, there are many applications such as Skype, Zoom, Leap Motion, Postman, etc that use URI schemes to convey information from web hyperlinks to an application on a computer. This is often helpful because data can be relayed to a computer with a specific application. Today, we are going to demonstrate an example of that using VB.NET on a Windows PC.
 
-
+![Screenshot](https://raw.githubusercontent.com/dominicklee/Register-URI-scheme-in-VB.NET/main/screenshot.png)
 
 ## Usage ##
 1. Download this repository and open the solution.
