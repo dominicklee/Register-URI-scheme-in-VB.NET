@@ -17,3 +17,5 @@ As we have seen over the years, there are many applications such as Skype, Zoom,
 If you plan to use this method in a production setting, ensure that you provide HTTP link to a page prior to providing the user the schema link to help the end-user understand what is happening. Some browsers such as Chrome warns users prior to them opening an application.
 
 Additionally, do **not** use this method to convey directories for file/folder modification, creation, or deletion. This will introduce security vulnerabilities to hackers. Even if your own links or app is not malicious, hackers will have a means to breach computers that run your application.
+
+Special thanks to [hmeziantou](https://www.meziantou.net/registering-an-application-to-a-uri-scheme-using-net.htm "meziantou") for the inspiration.
