@@ -1,0 +1,10 @@
+C:\Users\Dominick\Documents\GitHub\Register-URI-scheme-in-VB.NET\URI Schema Example\URI Schema Example\bin\Debug\URI Schema Example.exe
+C:\Users\Dominick\Documents\GitHub\Register-URI-scheme-in-VB.NET\URI Schema Example\URI Schema Example\bin\Debug\URI Schema Example.pdb
+C:\Users\Dominick\Documents\GitHub\Register-URI-scheme-in-VB.NET\URI Schema Example\URI Schema Example\bin\Debug\URI Schema Example.xml
+C:\Users\Dominick\Documents\GitHub\Register-URI-scheme-in-VB.NET\URI Schema Example\URI Schema Example\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominick\Documents\GitHub\Register-URI-scheme-in-VB.NET\URI Schema Example\URI Schema Example\obj\Debug\URI_Schema_Example.Form1.resources
+C:\Users\Dominick\Documents\GitHub\Register-URI-scheme-in-VB.NET\URI Schema Example\URI Schema Example\obj\Debug\URI_Schema_Example.Resources.resources
+C:\Users\Dominick\Documents\GitHub\Register-URI-scheme-in-VB.NET\URI Schema Example\URI Schema Example\obj\Debug\URI Schema Example.vbproj.GenerateResource.Cache
+C:\Users\Dominick\Documents\GitHub\Register-URI-scheme-in-VB.NET\URI Schema Example\URI Schema Example\obj\Debug\URI Schema Example.exe
+C:\Users\Dominick\Documents\GitHub\Register-URI-scheme-in-VB.NET\URI Schema Example\URI Schema Example\obj\Debug\URI Schema Example.xml
+C:\Users\Dominick\Documents\GitHub\Register-URI-scheme-in-VB.NET\URI Schema Example\URI Schema Example\obj\Debug\URI Schema Example.pdb
